@@ -15,7 +15,6 @@ import { HeroesComponent } from './heroes/heroes.component';
 import { HeroSearchComponent } from './hero-search/hero-search.component';
 import { MessagesComponent } from './messages/messages.component';
 import { MessagesModule } from './messages/messages.module';
-import { CommonModule } from '@angular/common';
 
 @NgModule({
   imports: [
